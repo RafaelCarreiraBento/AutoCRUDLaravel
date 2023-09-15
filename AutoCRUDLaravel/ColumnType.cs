@@ -12,6 +12,6 @@ namespace AutoCRUDLaravel {
         DATETIME,
         TIME,
         SELECT_OPTION,
-        BOOLEAN,
+        BOOLEAN
     }
 }
